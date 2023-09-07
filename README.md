@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @venkateshsundaram
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...python
+- 👀 I’m interested in ...web development,mobile development
+- 🌱 I’m currently learning ...react-native
 - 💞️ I’m looking to collaborate on ...web development
 - 📫 How to reach me ...contactvenkateshsundaram@gmail.com
 
